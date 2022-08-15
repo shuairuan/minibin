@@ -13,12 +13,12 @@
             }
             /* Make ID=subtitle aligned right relative to ID=title and slightly smaller font size */
             #subtitle {
-                text-align: right;
+                text-align: center;
                 font-size: small;
             }
             body {
                 /* Make background picture https://wallpaper.frank-ruan.com/ */
-                background-image: https://wallpaper-frank-ruan.com;
+                background-image: url("https://wallpaper.frank-ruan.com");
                 text-align: center;
             }
         </style>
@@ -39,7 +39,7 @@
         </form>
         <br />
         <!-- Add footer to my website https://frank-ruan.com and say this site is open-sourced in Github via GPLv3.0 -->
-        <p>Copyleft &#127279; <a href="https://frank-ruan.com" target="_blank">Frank Ruan</a></p>
+        <p>Copyleft 2022; <a href="https://frank-ruan.com" target="_blank">Frank Ruan</a></p>
         <p>Site Licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3.0</a></p>
         <p>Source Code: <a href="https://github.com/shuairuan/minibin" target="_blank">https://github.com/shuairuan/minibin</a></p>
     </body>
